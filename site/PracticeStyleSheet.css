@@ -1,0 +1,13 @@
+html {
+	color: white;
+	font-size: 20pt;
+	font-style: italic;
+	background-image: url("stircrazy_main.jpg");
+}
+body {
+	background-color: #0099FF;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+h2 {
+	background-image: url("stircrazy_main.jpg");
+}
